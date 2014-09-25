@@ -1,0 +1,9 @@
+1)  usr/lib/python2.7/posixpath.pyc
+2)  ls -1|wc -w
+    num = get_ipython().system('ls | wc -w')
+3)  233**0.5 = 15.264337522473747 
+4)  x**2 ~ 66.1 ns per loop
+    x*x  ~ 51.4 ns per loop
+    numpy.square(x) ~ 1460 ns per loop
+5)  lsmagic
+    24 cell magics
